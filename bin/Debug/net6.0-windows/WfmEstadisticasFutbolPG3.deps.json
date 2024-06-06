@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WfmEstadisticasFutbolPG3/1.0.0": {
+        "dependencies": {
+          "EstructurasDatosPG3CS": "1.0.0"
+        },
+        "runtime": {
+          "WfmEstadisticasFutbolPG3.dll": {}
+        }
+      },
+      "EstructurasDatosPG3CS/1.0.0": {
+        "runtime": {
+          "EstructurasDatosPG3CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WfmEstadisticasFutbolPG3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstructurasDatosPG3CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
